@@ -1,0 +1,6 @@
+com\photostudio\servicecertificate\service\CertificateService.class
+com\photostudio\servicecertificate\repo\CertificateRepo.class
+com\photostudio\servicecertificate\repo\model\Certificate.class
+com\photostudio\servicecertificate\api\CertificateController.class
+com\photostudio\servicecertificate\api\dto\Certificate.class
+com\photostudio\servicecertificate\ServiceCertificateApplication.class
